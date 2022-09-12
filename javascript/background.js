@@ -37,4 +37,4 @@ var parkImg = new Image();
 parkImg.onload = function (){
 	ctx2.drawImage(parkImg, 0, 0 , canvas2.width, 500);
 };
-parkImg.src = './images/ok.jpg';
+parkImg.src = './images/bg.jpg';
